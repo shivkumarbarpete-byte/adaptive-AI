@@ -5,6 +5,12 @@ A high-performance TypeScript constraint-based layout resolution library and Rea
 Built with **pure TypeScript (strict mode)** and **React 19**, without CSS media queries, hardcoded layout lookup tables, or uniform scaling disguised as adaptation.
 
 ---
+## 🚀 Live Demo
+
+[**View Live Demo →**](https://adaptive-ai-virid.vercel.app/)
+
+A high-performance TypeScript constraint-based layout resolution library and React developer tool that resolves a single declarative ad specification into fundamentally different, mathematically correct compositions across diverse physical surfaces.
+
 
 ## ⚡ Key Highlights & Architecture Guarantees
 
